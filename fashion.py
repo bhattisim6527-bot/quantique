@@ -74,29 +74,29 @@ if page ==  "🏠 Dashboard":
            col1, col2, col3 = st.columns(3)
 
            with col1:
-            st.image("c:/Users/simar/Desktop/fashion/photos/summer collection.jpg", width=700)
+            st.image("c:/Users/simar/Desktop/fashion/ git photos/summer collection.jpg", width=700)
             st.write("🌴 Coastal Breeze Dress")
             
            with col2:
-            st.image("c:/Users/simar/Desktop/fashion/photos/summer collection 2.jpg", width=700)
+            st.image("c:/Users/simar/Desktop/fashion/git photos/summer collection 2.jpg", width=700)
             st.write("🌊 Ocean Breeze Dress")
 
            with col3:
-            st.image("c:/Users/simar/Desktop/fashion/photos/summer collection6.jpg", width=700)
+            st.image("c:/Users/simar/Desktop/fashion/git photos/summer collection6.jpg", width=700)
             st.write("✨ Capri Bloom Dress")
 
            col4, col5, col6 = st.columns(3)
 
            with col4:
-            st.image("c:/Users/simar/Desktop/fashion/photos/summer collection3.jpg", width=700)
+            st.image("c:/Users/simar/Desktop/fashion/git photos/summer collection3.jpg", width=700)
             st.write("✨ Santorini Breeze Dress")
 
            with col5:
-            st.image("c:/Users/simar/Desktop/fashion/photos/summer collection 4.jpg", width=700)
+            st.image("c:/Users/simar/Desktop/fashion/git photos/summer collection 4.jpg", width=700)
             st.write("✨ Amalfi Summer Dress")
 
            with col6:
-            st.image("c:/Users/simar/Desktop/fashion/photos/summer collection5.jpg", width=700)
+            st.image("c:/Users/simar/Desktop/fashion/git photos/summer collection5.jpg", width=700)
             st.write("✨ Santorini Breeze Dress")
              # ================= MEN ================= #
            st.markdown("---")
@@ -105,28 +105,28 @@ if page ==  "🏠 Dashboard":
            col7, col8, col9 = st.columns(3)
 
            with col7:
-            st.image("c:/Users/simar/Desktop/fashion/photos/summer men c1.jpg", width=700)
+            st.image("c:/Users/simar/Desktop/fashion/git photos/summer men c1.jpg", width=700)
             st.write("✨ Santorini Breeze Dress")
 
            with col8:
-            st.image("c:/Users/simar/Desktop/fashion/photos/summer men 2.jpg", width=700)
+            st.image("c:/Users/simar/Desktop/fashion/git photos/summer men 2.jpg", width=700)
             st.write("✨ Amalfi Summer Dress")
 
            with col9:
-            st.image("c:/Users/simar/Desktop/fashion/photos/summer c men3.jpg", width=700)
+            st.image("c:/Users/simar/Desktop/fashion/git photos/summer c men3.jpg", width=700)
             st.write("✨ Santorini Breeze Dress")
            col10, col11, col12 = st.columns(3)
 
            with col10:
-            st.image("c:/Users/simar/Desktop/fashion/photos/summer c men 4.jpg", use_container_width=True)
+            st.image("c:/Users/simar/Desktop/fashion/git photos/summer c men 4.jpg", use_container_width=True)
             st.write("👔 QUANTIQUE Coastal Luxe")
 
            with col11:
-            st.image("c:/Users/simar/Desktop/fashion/photos/summer c men 5.jpg",  use_container_width=True)
+            st.image("c:/Users/simar/Desktop/fashion/git photos/summer c men 5.jpg",  use_container_width=True)
             st.write("👕 Riviera Linen Shirt")
 
            with col12:
-            st.image("c:/Users/simar/Desktop/fashion/photos/sumen c men 3.jpg",  use_container_width=True)
+            st.image("c:/Users/simar/Desktop/fashion/git photos/sumen c men 3.jpg",  use_container_width=True)
             st.write("🌿 Ocean Breeze Shirt")
            # ================= PREMIUM COLLECTION =================
 
@@ -137,15 +137,15 @@ if page ==  "🏠 Dashboard":
            col13, col14, col15 = st.columns(3)
 
            with col13:
-             st.image("c:/Users/simar/Desktop/fashion/photos/summer both 2.jpg", use_container_width=True)
+             st.image("c:/Users/simar/Desktop/fashion/git photos/summer both 2.jpg", use_container_width=True)
              st.markdown(" #☀️ Riviera Luxe Dress")
 
            with col14:
-              st.image("c:/Users/simar/Desktop/fashion/photos/sumer both 1.jpg", use_container_width=True)
+              st.image("c:/Users/simar/Desktop/fashion/git photos/sumer both 1.jpg", use_container_width=True)
               st.markdown("#👔 QUANTIQUE Coastal Signature")
 
            with col15:
-             st.image("c:/Users/simar/Desktop/fashion/photos/summmer both.jpg", use_container_width=True)
+             st.image("c:/Users/simar/Desktop/fashion/git photos/summmer both.jpg", use_container_width=True)
              st.markdown("#🌊 Ocean Breeze Couture")
            st.markdown("###☀️ Solstice Luxe Dress")
            st.warning("Lightweight luxury fabrics and vibrant summer colors designed for elegance, comfort, and effortless style.")
@@ -170,15 +170,15 @@ if page ==  "🏠 Dashboard":
            col1, col2, col3 = st.columns(3)
 
            with col1:
-            st.image("c:/Users/simar/Desktop/fashion/photos/sprong girl 1.jpg", use_container_width=True)
+            st.image("c:/Users/simar/Desktop/fashion/git photos/sprong girl 1.jpg", use_container_width=True)
             st.markdown("#🌸 Blossom Luxe Dress")
 
            with col2:
-             st.image("c:/Users/simar/Desktop/fashion/photos/spring girl2.jpg", use_container_width=True)
+             st.image("c:/Users/simar/Desktop/fashion/git photos/spring girl2.jpg", use_container_width=True)
              st.markdown("#🌷 Petal Grace Dress")
 
            with col3:
-              st.image("c:/Users/simar/Desktop/fashion/photos/spring girl 3.jpg", use_container_width=True)
+              st.image("c:/Users/simar/Desktop/fashion/git photos/spring girl 3.jpg", use_container_width=True)
               st.markdown("#🌺 Garden Muse Dress")
 
 
@@ -186,15 +186,15 @@ if page ==  "🏠 Dashboard":
            col4, col5, col6 = st.columns(3)
 
            with col4:
-             st.image("c:/Users/simar/Desktop/fashion/photos/spring girl 4.jpg", use_container_width=True)
+             st.image("c:/Users/simar/Desktop/fashion/git photos/spring girl 4.jpg", use_container_width=True)
              st.markdown("#🌼 Bloom Elegance Dress")
 
            with col5:
-             st.image("c:/Users/simar/Desktop/fashion/photos/spring gilr 5 jpg", use_container_width=True)
+             st.image("c:/Users/simar/Desktop/fashion/git photos/spring gilr 5 jpg", use_container_width=True)
              st.markdown("#🌹 Floral Symphony Dress")
 
            with col6:
-              st.image("c:/Users/simar/Desktop/fashion/photos/spring girl 6.jpg", use_container_width=True)
+              st.image("c:/Users/simar/Desktop/fashion/git photos/spring girl 6.jpg", use_container_width=True)
               st.markdown("#🌿 Spring Whisper Dress")
 
 
@@ -207,15 +207,15 @@ if page ==  "🏠 Dashboard":
            col7, col8, col9 = st.columns(3)
 
            with col7:
-            st.image("c:/Users/simar/Desktop/fashion/photos/spring men 1.jpg", use_container_width=True)
+            st.image("c:/Users/simar/Desktop/fashion/git photos/spring men 1.jpg", use_container_width=True)
             st.markdown("#👔 QUANTIQUE Spring Elite")
 
            with col8:
-            st.image("c:/Users/simar/Desktop/fashion/photos/spring meen 2.jpg", use_container_width=True)
+            st.image("c:/Users/simar/Desktop/fashion/git photos/spring meen 2.jpg", use_container_width=True)
             st.markdown("#🌿 Riviera Linen Shirt")
 
            with col9:
-            st.image("c:/Users/simar/Desktop/fashion/photos/spring men 3.jpg", use_container_width=True)
+            st.image("c:/Users/simar/Desktop/fashion/git photos/spring men 3.jpg", use_container_width=True)
             st.markdown("#🌷 Spring Breeze Shirt")
 
 
@@ -223,15 +223,15 @@ if page ==  "🏠 Dashboard":
            col10, col11, col12 = st.columns(3)
 
            with col10:
-            st.image("c:/Users/simar/Desktop/fashion/photos/spring men 4.jpg", use_container_width=True)
+            st.image("c:/Users/simar/Desktop/fashion/git photos/spring men 4.jpg", use_container_width=True)
             st.markdown("#🌼 Coastal Cotton Shirt")
 
            with col11:
-            st.image("c:/Users/simar/Desktop/fashion/photos/spting men 5.jpg", use_container_width=True)
+            st.image("c:/Users/simar/Desktop/fashion/git photos/spting men 5.jpg", use_container_width=True)
             st.markdown("#🌺 Garden Classic Shirt")
 
            with col12:
-             st.image("c:/Users/simar/Desktop/fashion/photos/spring men 6.jpg", use_container_width=True)
+             st.image("c:/Users/simar/Desktop/fashion/git photos/spring men 6.jpg", use_container_width=True)
              st.markdown("#🌊 Ocean Breeze Shirt")
 
 
@@ -243,15 +243,15 @@ if page ==  "🏠 Dashboard":
            col13, col14, col15 = st.columns(3)
  
            with col13:
-            st.image("c:/Users/simar/Desktop/fashion/photos/autum premim.jpg", use_container_width=True)
+            st.image("c:/Users/simar/Desktop/fashion/git photos/autum premim.jpg", use_container_width=True)
             st.markdown("#🌸 Blossom Royale Dress")
 
            with col14:
-            st.image("c:/Users/simar/Desktop/fashion/photos/autum premim 1.jpg", use_container_width=True)
+            st.image("c:/Users/simar/Desktop/fashion/git photos/autum premim 1.jpg", use_container_width=True)
             st.markdown("#👔 QUANTIQUE Heritage Signature")
 
            with col15:
-             st.image("c:/Users/simar/Desktop/fashion/photos/autum permium 3.jpg", use_container_width=True)
+             st.image("c:/Users/simar/Desktop/fashion/git photos/autum permium 3.jpg", use_container_width=True)
              st.markdown("#🌷 Floral Elegance Couture")
 
            st.markdown("### 🌷 Eternal Blossom Dress")
@@ -278,15 +278,15 @@ if page ==  "🏠 Dashboard":
            col1, col2, col3 = st.columns(3)
 
            with col1:
-            st.image("c:/Users/simar/Desktop/fashion/photos/autum girl speical 1.jpg", use_container_width=True)
+            st.image("c:/Users/simar/Desktop/fashion/git photos/autum girl speical 1.jpg", use_container_width=True)
             st.markdown("#🍂 Maple Elegance Dress")
 
            with col2:
-             st.image("c:/Users/simar/Desktop/fashion/photos/autm girl special 2.jpg", use_container_width=True)
+             st.image("c:/Users/simar/Desktop/fashion/git photos/autm girl special 2.jpg", use_container_width=True)
              st.markdown("#🤎 Cocoa Luxe Dress")
 
            with col3:
-             st.image("c:/Users/simar/Desktop/fashion/photos/autum speical 3 girl.jpg", use_container_width=True)
+             st.image("c:/Users/simar/Desktop/fashion/git photos/autum speical 3 girl.jpg", use_container_width=True)
              st.markdown("#🍁 Autumn Whisper Dress")
 
 
@@ -294,15 +294,15 @@ if page ==  "🏠 Dashboard":
            col4, col5, col6 = st.columns(3)
 
            with col4:
-             st.image("c:/Users/simar/Desktop/fashion/photos/autum girl 1.jpg", use_container_width=True)
+             st.image("c:/Users/simar/Desktop/fashion/git photos/autum girl 1.jpg", use_container_width=True)
              st.markdown("#🌰 Chestnut Grace Dress")
 
            with col5:
-             st.image("c:/Users/simar/Desktop/fashion/photos/autum girl 2.jpg", use_container_width=True)
+             st.image("c:/Users/simar/Desktop/fashion/git photos/autum girl 2.jpg", use_container_width=True)
              st.markdown("#🧡 Amber Bloom Dress")
 
            with col6:
-             st.image("c:/Users/simar/Desktop/fashion/photos/autum girl 4.jpg", use_container_width=True)
+             st.image("c:/Users/simar/Desktop/fashion/git photos/autum girl 4.jpg", use_container_width=True)
              st.markdown("#🍷 Burgundy Muse Dress")
 
 
@@ -315,15 +315,15 @@ if page ==  "🏠 Dashboard":
            col7, col8, col9 = st.columns(3)
 
            with col7:
-             st.image("c:/Users/simar/Desktop/fashion/photos/autum boy 1.jpg", use_container_width=True)
+             st.image("c:/Users/simar/Desktop/fashion/git photos/autum boy 1.jpg", use_container_width=True)
              st.markdown("#👔 QUANTIQUE Autumn Elite")
 
            with col8:
-            st.image("c:/Users/simar/Desktop/fashion/photos/autum boy 2.jpg", use_container_width=True)
+            st.image("c:/Users/simar/Desktop/fashion/git photos/autum boy 2.jpg", use_container_width=True)
             st.markdown("#🧥 Heritage Suede Jacket")
 
            with col9:
-             st.image("c:/Users/simar/Desktop/fashion/photos/autum boy 3.jpg", use_container_width=True)
+             st.image("c:/Users/simar/Desktop/fashion/git photos/autum boy 3.jpg", use_container_width=True)
              st.markdown("#🍂 Rustic Linen Shirt")
 
 
@@ -331,15 +331,15 @@ if page ==  "🏠 Dashboard":
            col10, col11, col12 = st.columns(3)
 
            with col10:
-             st.image("c:/Users/simar/Desktop/fashion/photos/autum boy 4.jpg", use_container_width=True)
+             st.image("c:/Users/simar/Desktop/fashion/git photos/autum boy 4.jpg", use_container_width=True)
              st.markdown("#🤎 Woodland Classic Shirt")
 
            with col11:
-            st.image("c:/Users/simar/Desktop/fashion/photos/autum boy 5.jpg", use_container_width=True)
+            st.image("c:/Users/simar/Desktop/fashion/git photos/autum boy 5.jpg", use_container_width=True)
             st.markdown("#🌿 Olive Prestige Shirt")
 
            with col12:
-            st.image("c:/Users/simar/Desktop/fashion/photos/autum boy 6.jpg", use_container_width=True)
+            st.image("c:/Users/simar/Desktop/fashion/git photos/autum boy 6.jpg", use_container_width=True)
             st.markdown("#🍁 Harvest Luxe Jacket")
 
 
@@ -352,15 +352,15 @@ if page ==  "🏠 Dashboard":
            col13, col14, col15 = st.columns(3)
  
            with col13:
-            st.image("c:/Users/simar/Desktop/fashion/photos/autum premim.jpg", use_container_width=True)
+            st.image("c:/Users/simar/Desktop/fashion/git photos/autum premim.jpg", use_container_width=True)
             st.markdown("#🍂 Golden Maple Dress")
 
            with col14:
-            st.image("c:/Users/simar/Desktop/fashion/photos/autum premim 1.jpg", use_container_width=True)
+            st.image("c:/Users/simar/Desktop/fashion/git photos/autum premim 1.jpg", use_container_width=True)
             st.markdown("#👔 QUANTIQUE Heritage Signature")
 
            with col15:
-             st.image("c:/Users/simar/Desktop/fashion/photos/autum permium 3.jpg", use_container_width=True)
+             st.image("c:/Users/simar/Desktop/fashion/git photos/autum permium 3.jpg", use_container_width=True)
              st.markdown("#🍁 Harvest Luxe Jacket")
            st.markdown("### 🍁 Royal Autumn Couture")
            st.error("Warm earthy tones with cozy layers for crisp autumn days.")
@@ -393,15 +393,15 @@ if page ==  "🏠 Dashboard":
            col1, col2, col3 = st.columns(3)
 
            with col1:
-            st.image("c:/Users/simar/Desktop/fashion/photos/winter sj.jpg", use_container_width=True)
+            st.image("c:/Users/simar/Desktop/fashion/git photos/winter sj.jpg", use_container_width=True)
             st.markdown("#❄️ Arctic Elegance Dress")
 
            with col2:
-             st.image("c:/Users/simar/Desktop/fashion/photos/winter girl 2.jpg", use_container_width=True)
+             st.image("c:/Users/simar/Desktop/fashion/git photos/winter girl 2.jpg", use_container_width=True)
              st.markdown("#🧥 Snow Queen Coat")
 
            with col3:
-             st.image("c:/Users/simar/Desktop/fashion/photos/winter girl 3.jpg", use_container_width=True)
+             st.image("c:/Users/simar/Desktop/fashion/git photos/winter girl 3.jpg", use_container_width=True)
              st.markdown("#🤍 Frost Pearl Dress")
 
 
@@ -409,15 +409,15 @@ if page ==  "🏠 Dashboard":
            col4, col5, col6 = st.columns(3)
 
            with col4:
-             st.image("c:/Users/simar/Desktop/fashion/photos/winter girl 4.jpg", use_container_width=True)
+             st.image("c:/Users/simar/Desktop/fashion/git photos/winter girl 4.jpg", use_container_width=True)
              st.markdown("#🌰 Chestnut Grace Dress")
 
            with col5:
-             st.image("c:/Users/simar/Desktop/fashion/photos/winter girl 5.png", use_container_width=True)
+             st.image("c:/Users/simar/Desktop/fashion/git photos/winter girl 5.png", use_container_width=True)
              st.markdown("#🧡 Amber Bloom Dress")
 
            with col6:
-             st.image("c:/Users/simar/Desktop/fashion/photos/winter girl 6.jpg", use_container_width=True)
+             st.image("c:/Users/simar/Desktop/fashion/git photos/winter girl 6.jpg", use_container_width=True)
              st.markdown("#🍷 Burgundy Muse Dress")
 
 
@@ -430,15 +430,15 @@ if page ==  "🏠 Dashboard":
            col7, col8, col9 = st.columns(3)
 
            with col7:
-             st.image("c:/Users/simar/Desktop/fashion/photos/winter boy 1.jpg", use_container_width=True)
+             st.image("c:/Users/simar/Desktop/fashion/git photos/winter boy 1.jpg", use_container_width=True)
              st.markdown("#👔 QUANTIQUE Autumn Elite")
 
            with col8:
-            st.image("c:/Users/simar/Desktop/fashion/photos/winter boy 2.jpg", use_container_width=True)
+            st.image("c:/Users/simar/Desktop/fashion/git photos/winter boy 2.jpg", use_container_width=True)
             st.markdown("#🧥 Heritage Suede Jacket")
 
            with col9:
-             st.image("c:/Users/simar/Desktop/fashion\photos/winter boy 3.jpg", use_container_width=True)
+             st.image("c:/Users/simar/Desktop/fashion/git photos/winter boy 3.jpg", use_container_width=True)
              st.markdown("#🍂 Rustic Linen Shirt")
 
 
@@ -446,15 +446,15 @@ if page ==  "🏠 Dashboard":
            col10, col11, col12 = st.columns(3)
 
            with col10:
-             st.image("c:/Users/simar/Desktop/fashion/photos/winter boy 4.jpg", use_container_width=True)
+             st.image("c:/Users/simar/Desktop/fashion/git photos/winter boy 4.jpg", use_container_width=True)
              st.markdown("#🤎 Woodland Classic Shirt")
 
            with col11:
-            st.image("c:/Users/simar/Desktop/fashion/photos/autum boy special 1.jpg", use_container_width=True)
+            st.image("c:/Users/simar/Desktop/fashion/git photos/autum boy special 1.jpg", use_container_width=True)
             st.markdown("#🌿 Olive Prestige Shirt")
 
            with col12:
-            st.image("c:/Users/simar/Desktop/fashion/photos/winter boy 6.jpg", use_container_width=True)
+            st.image("c:/Users/simar/Desktop/fashion/git photos/winter boy 6.jpg", use_container_width=True)
             st.markdown("#❄️ Harvest Luxe Jacket")
 
 
@@ -467,15 +467,15 @@ if page ==  "🏠 Dashboard":
            col13, col14, col15 = st.columns(3)
  
            with col13:
-            st.image("c:/Users/simar/Desktop/fashion/photos/winter premim.jpg", use_container_width=True)
+            st.image("c:/Users/simar/Desktop/fashion/git photos/winter premim.jpg", use_container_width=True)
             st.markdown("#🍂 Golden Maple Dress")
 
            with col14:
-            st.image("c:/Users/simar/Desktop/fashion/photos/winter perimum.jpg", use_container_width=True)
+            st.image("c:/Users/simar/Desktop/fashion/git photos/winter perimum.jpg", use_container_width=True)
             st.markdown("#👔 QUANTIQUE Heritage Signature")
 
            with col15:
-             st.image("c:/Users/simar/Desktop/fashion/photos/winter perimum 2.jpg", use_container_width=True)
+             st.image("c:/Users/simar/Desktop/fashion/git photos/winter perimum 2.jpg", use_container_width=True)
 
 
            st.markdown("### ❄️ Eternal Frost Dress")
@@ -483,13 +483,13 @@ if page ==  "🏠 Dashboard":
            
     with right:   
      if season == "🌞 Summer vibes":
-      st.image("c:/Users/simar/Desktop/fashion/photos/fashion1.jpg",width=500)
+      st.image("c:/Users/simar/Desktop/fashion/git photos/fashion1.jpg",width=500)
      elif season == "🌷 Spring Bloom":
-       st.image("c:/Users/simar/Desktop/fashion/photos/fashion 2.jpg",width=500)
+       st.image("c:/Users/simar/Desktop/fashion/git photos/fashion 2.jpg",width=500)
      elif season == "🍁 Autumn Muse":
-       st.image("c:/Users/simar/Desktop/fashion/photos/fashion 4.jpg", width=500)
+       st.image("c:/Users/simar/Desktop/fashion/git photos/fashion 4.jpg", width=500)
      elif season == "❄️ Winter Luxe": 
-       st.image("c:/Users/simar/Desktop/fashion/photos/fashion 8 .jpg",width=500)
+       st.image("c:/Users/simar/Desktop/fashion/git photos/fashion 8 .jpg",width=500)
        st.warning("Warm earthy tones with cozy layers for crisp winter days.")
     st.divider()
 
@@ -669,13 +669,13 @@ elif page == "✨ StyleDNA":
         if gender == "👗 Women's Luxe":
           with col1:
            st.image(
-            "c:/Users/simar/Desktop/fashion/photos/winter girl 2.jpg",
+            "c:/Users/simar/Desktop/fashion/git photos/winter girl 2.jpg",
             width=200,
             caption="❄️ Winter Women's Collection"
           )
           with col2:
            st.image(
-            "c:/Users/simar/Desktop/fashion/photos/winter girl 6.jpg",
+            "c:/Users/simar/Desktop/fashion/git photos/winter girl 6.jpg",
             width=200,
             caption="❄️ Winter Women's Collection"
           )
@@ -958,7 +958,7 @@ elif page == "✨ StyleDNA":
            col1, col2 = st.columns(2)
            with col1:
               st.image(
-             "c:/Users/simar/Desktop/fashion/photos/fashion10.jpg",
+             "c:/Users/simar/Desktop/fashion/git photos/fashion10.jpg",
              width=250,
              caption="❄️ Winter Women's Collection"
           )
@@ -1182,10 +1182,10 @@ elif page == "✨ StyleDNA":
           st.success("🌞 QUANTIQUE AI has curated a fresh and breezy Summer look just for you!")
           col1, col2, col3 = st.columns(3)
           with col1:
-           st.image("c:/Users/simar/Desktop/fashion/photos/fashion12.jpg", width=200)
+           st.image("c:/Users/simar/Desktop/fashion/git photos/fashion12.jpg", width=200)
          
           with col2:  
-           st.image("c:/Users/simar/Desktop/fashion/photos/fahion12.6.jpg",width=200)
+           st.image("c:/Users/simar/Desktop/fashion/git photos/fahion12.6.jpg",width=200)
           with col3: 
            st.write("👗 Cotton Maxi Dress")
            st.write("👡 Comfortable Sandals")
@@ -1379,13 +1379,13 @@ elif page == "✨ StyleDNA":
 
           with col1:
             st.image(
-            "c:/Users/simar/Desktop/fashion/photos/fashion16.jpg",
+            "c:/Users/simar/Desktop/fashion/git photos/fashion16.jpg",
             width=200,
             caption="🌞 Summer Men's Collection"
           )
           with col2:
             st.image(
-            "c:/Users/simar/Desktop/fashion/photos/fashion16.1.jpg",
+            "c:/Users/simar/Desktop/fashion/git photos/fashion16.1.jpg",
             width=200,
             caption="🌞 Summer Men's Collection"
           )
@@ -1600,9 +1600,9 @@ elif page == "✨ StyleDNA":
           st.success("🌸 Soft pastel colors create a fresh and graceful spring look.")
           col1, col2, col3 = st.columns(3)
           with col1:
-           st.image("c:/Users/simar/Desktop/fashion/photos/spring girl2.jpg", width=600)
+           st.image("c:/Users/simar/Desktop/fashion/git photos/spring girl2.jpg", width=600)
           with col2:
-           st.image("c:/Users/simar/Desktop/fashion/photos/spring girl.jpg", width=300)
+           st.image("c:/Users/simar/Desktop/fashion/git photos/spring girl.jpg", width=300)
           with col3:
              st.write("🌸 Floral Dress")
              st.write("👟 White Sneakers")
@@ -1796,13 +1796,13 @@ elif page == "✨ StyleDNA":
 
           with col1:
            st.image(
-            "c:/Users/simar/Desktop/fashion/photos/spring men.jpg",
+            "c:/Users/simar/Desktop/fashion/git photos/spring men.jpg",
             width=200,
             caption="🌸 Spring Men's Collection"
             )
           with col2:
             st.image(
-            "c:/Users/simar/Desktop/fashion/photos/springmen2.jpg",
+            "c:/Users/simar/Desktop/fashion/git photos/springmen2.jpg",
             width=200,
             caption="🌸 Spring Men's Collection"
             )
@@ -2022,13 +2022,13 @@ elif page == "✨ StyleDNA":
 
          with col1:
           st.image(
-            "c:/Users/simar/Desktop/fashion/photos/autumgirl.jpg",
+            "c:/Users/simar/Desktop/fashion/git photos/autumgirl.jpg",
             width=200,
             caption="🍁 Autumn Women's Collection"
          )
          with col2:
             st.image(
-            "c:/Users/simar/Desktop/fashion/photos/autumG2.jpg",
+            "c:/Users/simar/Desktop/fashion/git photos/autumG2.jpg",
             width=200,
             caption="🍁 Autumn Women's Collection"
          )
@@ -2266,13 +2266,13 @@ elif page == "✨ StyleDNA":
 
            with col1:
             st.image(
-            "c:/Users/simar/Desktop/fashion/photos/autumbo2.jpg",
+            "c:/Users/simar/Desktop/fashion/git photos/autumbo2.jpg",
             width=200,
             caption="🍁 Autumn Men's Collection"
            )
            with col2:
             st.image(
-            "c:/Users/simar/Desktop/fashion/photos/autumboy.jpg",
+            "c:/Users/simar/Desktop/fashion/git photos/autumboy.jpg",
             width=200,
             caption="🍁 Autumn Men's Collection"
            )
@@ -2531,7 +2531,7 @@ elif page == "💎 My Luxury Wardrobe":
   with left:
 
     st.image(
-        "c:/Users/simar/Desktop/fashion/photos/wardrob.jpg",
+        "c:/Users/simar/Desktop/fashion/git photos/wardrob.jpg",
         use_container_width=True
     )
 
@@ -2555,21 +2555,21 @@ elif page == "💎 My Luxury Wardrobe":
   col1, col2, col3, col4, col5, col6 = st.columns(6)
 
   with col1:
-      st.image("c:/Users/simar/Desktop/fashion/photos/dresses.jpg", use_container_width=True)
+      st.image("c:/Users/simar/Desktop/fashion/git photos/dresses.jpg", use_container_width=True)
       st.markdown("### 👗 Dresses")
       st.caption("Luxury gowns, cocktail dresses & timeless couture.")
 
       st.button("✨ Explore", key="dress")
 
   with col2:
-      st.image("c:/Users/simar/Desktop/fashion/photos/heels 2.jpg", use_container_width=True)
+      st.image("c:/Users/simar/Desktop/fashion/git photos/heels 2.jpg", use_container_width=True)
       st.markdown("### 👠shoes")
       st.caption("Premium heels, sneakers & designer footwear.")
 
       st.button("✨ Explore", key="shoes")
 
   with col3:
-      st.image("c:/Users/simar/Desktop/fashion/photos/beg3.jpg", use_container_width=True)
+      st.image("c:/Users/simar/Desktop/fashion/git photos/beg3.jpg", use_container_width=True)
       st.markdown("### 👜 Bags")
       st.caption("Elegant handbags, totes & luxury clutches.")
 
@@ -2577,21 +2577,21 @@ elif page == "💎 My Luxury Wardrobe":
       
 
   with col4:
-      st.image("c:/Users/simar/Desktop/fashion/photos/watch.jpg", use_container_width=True)
+      st.image("c:/Users/simar/Desktop/fashion/git photos/watch.jpg", use_container_width=True)
       st.markdown("### ⌚ Watches")
       st.caption("Luxury watches for timeless elegance.")
 
       st.button("✨ Explore", key="watch") 
       
   with col5:
-      st.image("c:/Users/simar/Desktop/fashion/photos/jewerly.jpg", use_container_width=True)
+      st.image("c:/Users/simar/Desktop/fashion/git photos/jewerly.jpg", use_container_width=True)
       st.markdown("### 💍 Jewellery")
       st.caption("Necklaces, earrings & premium accessories.")
 
       st.button("✨ Explore", key="jewellery")
       
   with col6:
-      st.image("c:/Users/simar/Desktop/fashion/photos/permiun.jpg", use_container_width=True)
+      st.image("c:/Users/simar/Desktop/fashion/git photos/permiun.jpg", use_container_width=True)
       st.markdown("### 💎 Premium")
       st.caption("Exclusive luxury collection for every season.")
 
@@ -2607,7 +2607,7 @@ elif page == "💎 My Luxury Wardrobe":
 
   with col1:
     st.image(
-        "c:/Users/simar/Desktop/fashion/photos/dresses.jpg",
+        "c:/Users/simar/Desktop/fashion/git photos/dresses.jpg",
         use_container_width=True
     )
 
@@ -2640,7 +2640,7 @@ elif page == "💎 My Luxury Wardrobe":
             st.write("**Luxury Rating:** ⭐⭐⭐⭐⭐")
 
             st.image(
-                "c:/Users/simar/Desktop/fashion/photos/midnight.jpg",
+                "c:/Users/simar/Desktop/fashion/git photos/midnight.jpg",
                 width=300
             )
 
@@ -2668,7 +2668,7 @@ elif page == "💎 My Luxury Wardrobe":
 
   with col1:
     st.image(
-        "c:/Users/simar/Desktop/fashion/photos/beg3.jpg",
+        "c:/Users/simar/Desktop/fashion/git photos/beg3.jpg",
         use_container_width=True
     )
 
@@ -2701,7 +2701,7 @@ elif page == "💎 My Luxury Wardrobe":
             st.write("**Luxury Rating:** ⭐⭐⭐⭐⭐")
 
             st.image(
-                "c:/Users/simar/Desktop/fashion/photos/bag.jpg",
+                "c:/Users/simar/Desktop/fashion/git photos/bag.jpg",
                 width=300
             )
 
@@ -2728,7 +2728,7 @@ elif page == "💎 My Luxury Wardrobe":
 
   with col1:
     st.image(
-        "c:/Users/simar/Desktop/fashion/photos/watch.jpg",
+        "c:/Users/simar/Desktop/fashion/git photos/watch.jpg",
         use_container_width=True
     )
 
@@ -2761,7 +2761,7 @@ elif page == "💎 My Luxury Wardrobe":
             st.write("**Luxury Rating:** ⭐⭐⭐⭐⭐")
 
             st.image(
-                "c:/Users/simar/Desktop/fashion/photos/watch for buy.png",
+                "c:/Users/simar/Desktop/fashion/git photos/watch for buy.png",
                 width=300
             )
 
@@ -3033,7 +3033,7 @@ elif page == "💎 My Luxury Wardrobe":
   with vault1:
 
     st.image(
-        "c:/Users/simar/Desktop/fashion/photos/ROYAL.jpg",
+        "c:/Users/simar/Desktop/fashion/git photos/ROYAL.jpg",
         use_container_width=True
     )
 
@@ -3065,7 +3065,7 @@ elif page == "💎 My Luxury Wardrobe":
   with vault2:
 
     st.image(
-        "c:/Users/simar/Desktop/fashion/photos/PARIS.jpg",
+        "c:/Users/simar/Desktop/fashion/git photos/PARIS.jpg",
         use_container_width=True
     )
 
@@ -3096,7 +3096,7 @@ elif page == "💎 My Luxury Wardrobe":
   with vault3:
 
     st.image(
-        "c:/Users/simar/Desktop/fashion/photos/midnight elite.jpg",
+        "c:/Users/simar/Desktop/fashion/git photos/midnight elite.jpg",
         use_container_width=True
     )
 
@@ -3207,7 +3207,7 @@ elif page == "🌍 Fashion Passport":
   with row1[0]:
 
     st.image(
-        "c:/Users/simar/Desktop/fashion/photos/india.jpg",
+        "c:/Users/simar/Desktop/fashion/git photos/india.jpg",
         use_container_width=True
     )
 
@@ -3280,7 +3280,7 @@ elif page == "🌍 Fashion Passport":
   with row1[1]:
 
     st.image(
-        "c:/Users/simar/Desktop/fashion/photos/fr.jpg",
+        "c:/Users/simar/Desktop/fashion/git photos/fr.jpg",
         use_container_width=True
     )
 
@@ -3481,7 +3481,7 @@ minimal elegance.
   with row1[2]:
 
     st.image(
-        "c:/Users/simar/Desktop/fashion/photos/japan.jpg",
+        "c:/Users/simar/Desktop/fashion/git photos/japan.jpg",
         use_container_width=True
     )
 
@@ -3677,7 +3677,7 @@ for an authentic luxury Japanese look.
   with row1[3]:
 
     st.image(
-        "c:/Users/simar/Desktop/fashion/photos/korean.jpg",
+        "c:/Users/simar/Desktop/fashion/git photos/korean.jpg",
         use_container_width=True
     )
 
@@ -3877,7 +3877,7 @@ creates a timeless luxury look.
   with row2[0]:
 
      st.image(
-        "c:/Users/simar/Desktop/fashion/photos/ital.jpg",
+        "c:/Users/simar/Desktop/fashion/git photos/ital.jpg",
         use_container_width=True
      )
 
@@ -4076,7 +4076,7 @@ A well-tailored outfit is the true definition of Italian luxury.
   with row2[1]:
 
      st.image(
-        "c:/Users/simar/Desktop/fashion/photos/turkey.jpg",
+        "c:/Users/simar/Desktop/fashion/git photos/turkey.jpg",
         use_container_width=True
      )
 
@@ -4278,7 +4278,7 @@ embroidered shoes for an authentic Ottoman-inspired luxury look.
   with row2[2]:
 
      st.image(
-        "c:/Users/simar/Desktop/fashion/photos/mmmm.jpg",
+        "c:/Users/simar/Desktop/fashion/git photos/mmmm.jpg",
         use_container_width=True
      )
 
@@ -4484,7 +4484,7 @@ for a timeless Moroccan luxury look.
   with row2[3]:
 
      st.image(
-        "c:/Users/simar/Desktop/fashion/photos/uk.jpg",
+        "c:/Users/simar/Desktop/fashion/git photos/uk.jpg",
         use_container_width=True
      )
 
@@ -4740,7 +4740,7 @@ British luxury look.
   with left:
 
     st.image(
-        "c:/Users/simar/Desktop/fashion/photos/royal wedding.jpg",
+        "c:/Users/simar/Desktop/fashion/git photos/royal wedding.jpg",
         use_container_width=True
     )
 
@@ -4964,7 +4964,7 @@ Complete the challenge to earn:
   st.caption("The Land of Timeless Luxury Fashion")
 
   st.image(
-    "c:/Users/simar/Desktop/fashion/photos/rk.jpg",
+    "c:/Users/simar/Desktop/fashion/git photos/rk.jpg",
     use_container_width=True
   )
 
@@ -5025,7 +5025,7 @@ Complete the challenge to earn:
     "name":"Banarasi Saree",
     "emoji":"🧵✨👰📍",
     "hint":"Luxury silk from Varanasi",
-    "image":"c:/Users/simar/Desktop/fashion/photos/banarsi.jpg",
+    "image":"c:/Users/simar/Desktop/fashion/git photos/banarsi.jpg",
     "history":"""
 The Banarasi Saree originated in Varanasi over 500 years ago during the Mughal Empire.
 It is famous for luxurious silk and gold zari work and remains India's most iconic bridal saree.
@@ -5037,7 +5037,7 @@ It is famous for luxurious silk and gold zari work and remains India's most icon
     "name":"Royal Lehenga",
     "emoji":"👑💍✨👰",
     "hint":"Royal bridal outfit",
-    "image":"c:/Users/simar/Desktop/fashion/photos/lehnga.jpg",
+    "image":"c:/Users/simar/Desktop/fashion/git photos/lehnga.jpg",
     "history":"""
 The Lehenga became popular during the Mughal period.
 It was worn by queens and noblewomen and is now India's most famous bridal dress.
@@ -5048,7 +5048,7 @@ It was worn by queens and noblewomen and is now India's most famous bridal dress
     "name":"Sherwani",
     "emoji":"🤵👑🎩",
     "hint":"Traditional royal menswear",
-    "image":"c:/Users/simar/Desktop/fashion/photos/men wear.jpg",
+    "image":"c:/Users/simar/Desktop/fashion/git photos/men wear.jpg",
     "history":"""
 The Sherwani was introduced during the Mughal Empire.
 Today it is the traditional groom's outfit for Indian weddings.
@@ -5059,7 +5059,7 @@ Today it is the traditional groom's outfit for Indian weddings.
     "name":"Anarkali",
     "emoji":"🌸💃👸",
     "hint":"Named after a Mughal court dancer",
-    "image":"c:/Users/simar/Desktop/fashion/photos/Anarkali.jpg",
+    "image":"c:/Users/simar/Desktop/fashion/git photos/Anarkali.jpg",
     "history":"""
 The Anarkali suit is inspired by the legendary Mughal court dancer Anarkali.
 It is admired for its graceful flowing silhouette.
@@ -5225,7 +5225,7 @@ elif page == "📸 Social Fashion Trends":
    with st.container(border=True):
 
     st.image(
-    "c:/Users/simar/Desktop/fashion/photos/black lookbook.jpg",
+    "c:/Users/simar/Desktop/fashion/git photos/black lookbook.jpg",
      use_container_width=True
    )
 
